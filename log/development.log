@@ -2232,3 +2232,523 @@ Get index
 Completed 200 OK in 79ms (Views: 76.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2021-07-19 23:32:50 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 569ms (Views: 562.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-19 23:36:14 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 53ms (Views: 49.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-19 23:36:33 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 38ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-19 23:36:45 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 554ms (Views: 551.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-19 23:36:55 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 392ms (Views: 389.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:04:06 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 580ms (Views: 573.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:08:52 -0500
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:09:02 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 73ms (Views: 69.9ms | ActiveRecord: 0.0ms)
+
+
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 54ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:13:02 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 538ms (Views: 534.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:13:50 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 449ms (Views: 446.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:14:07 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 379ms (Views: 376.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:17:36 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 554ms (Views: 550.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:17:44 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 46ms (Views: 43.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:17:55 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 503ms (Views: 496.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:18:09 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 64ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:18:13 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 533ms (Views: 530.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:21:24 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 44ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:21:40 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 87ms (Views: 84.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:21:52 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 100ms (Views: 96.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:22:18 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 47ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:23:14 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 962ms (Views: 959.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:23:50 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 389ms (Views: 386.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:24:57 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 248ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (6:0)
+  4 |     
+  5 |   )
+> 6 | }
+    | ^
+  7 | ):
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTUhPCIxNnIYg0Uq4_qy80pkvXS_xAUc0" async defer></script>
+    11:   </head>
+    12: 
+  
+app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb___3294393290996322431_70287064576300'
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:25:21 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 373ms (Views: 370.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:25:40 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 45ms (Views: 41.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:25:49 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 356ms (Views: 352.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:25:58 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 50ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:26:19 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 42ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:26:26 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 507ms (Views: 499.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:26:36 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 61ms (Views: 57.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:26:57 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 162ms (Views: 159.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:27:17 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 181ms (Views: 178.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:27:36 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 46ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:27:43 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 57ms (Views: 54.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:27:52 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 175ms (Views: 171.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:28:10 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 35ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:28:32 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 389ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (SyntaxError: unknown: Unexpected token (4:0)
+  2 |   return(
+  3 |   )
+> 4 | }
+    | ^
+  5 | ):
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTUhPCIxNnIYg0Uq4_qy80pkvXS_xAUc0" async defer></script>
+    11:   </head>
+    12: 
+  
+app/views/layouts/application.html.erb:9:in `_app_views_layouts_application_html_erb___2724931428207736903_70210638396600'
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:28:46 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 375ms (Views: 371.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:29:43 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 423ms (Views: 419.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:30:01 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 354ms (Views: 351.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:31:03 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 88ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:32:10 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 48ms (Views: 45.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:32:17 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 41ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:32:34 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 51ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:33:06 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 71ms (Views: 67.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:33:34 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 60ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:34:12 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 373ms (Views: 370.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:43:07 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 439ms (Views: 436.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:45:31 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 424ms (Views: 420.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:46:11 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 49ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:46:12 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 45ms (Views: 41.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:56:12 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 403ms (Views: 400.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:56:18 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 47ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:56:36 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 376ms (Views: 372.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:57:56 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 369ms (Views: 366.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:58:10 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 403ms (Views: 399.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:58:29 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 62ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:58:42 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 397ms (Views: 393.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 09:59:27 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 369ms (Views: 365.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 10:00:00 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 392ms (Views: 389.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2021-07-20 10:00:55 -0500
+Processing by HomeController#index as HTML
+Get index
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 407ms (Views: 404.3ms | ActiveRecord: 0.0ms)
+
+

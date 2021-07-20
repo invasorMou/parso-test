@@ -1,6 +1,6 @@
 function Logout() {
   return (
-    <div className="log-out navbar__link">
+    <div className="log-out header__link">
       <a href="#">Sign out</a>
     </div>
   )

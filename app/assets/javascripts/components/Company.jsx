@@ -1,7 +1,7 @@
 function Company(props) {
   return(
-    <div className="company navbar__link navbar__link--main">
+    <h4 className="company header__link header__link--main">
       <a href="#">{ props.company.name }</a>
-    </div>
+    </h4>
   )
 }

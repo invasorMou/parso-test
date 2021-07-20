@@ -1,10 +1,10 @@
-function Navbar(props) {
+function Header(props) {
   return (
-    <nav className="navbar">
+    <header className="header">
     
       <Company company={ props.company }/>
       
-      <div className="navbar__menu">
+      <div className="header__menu">
       
         <SearchBar />
         
@@ -12,6 +12,6 @@ function Navbar(props) {
       
       </div>
       
-    </nav>
+    </header>
   )
 }

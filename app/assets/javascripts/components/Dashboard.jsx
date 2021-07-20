@@ -3,7 +3,7 @@ function Dashboard(props) {
     return (
       <li key={ idx } className={ `dashboard__link${ idx === 0 ? ' dashboard__link--active' : '' }` }> 
         <a href="#">
-          <i class={ `fe ${ element.icon }` }></i>
+          <i className={ `fe ${ element.icon }` }></i>
           { element.title }
         </a>
       </li>
@@ -11,11 +11,11 @@ function Dashboard(props) {
    })
   
   return(
-    <aside className="dashboard">
+    <nav className="dashboard">
     
       <ul className="dashboard__menu">
         { dashboardMenu }
       </ul>
-    </aside>
+    </nav>
   )
 }

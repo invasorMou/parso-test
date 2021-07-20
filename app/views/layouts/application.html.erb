@@ -11,9 +11,15 @@
   </head>
 
   <body>
-    <%= react_component("Navbar", { company: @company }) %>
-    <%= react_component("Dashboard", { menu: menu_elements }) %>
-     
-    <%= yield %>
+    <%= react_component("Header", { company: @company }) %>
+    
+    <div class="main-layout">
+      
+      <%= react_component("Dashboard", { menu: menu_elements }) %>
+      
+      <main>
+        <%= yield %>
+      <main>
+    </div>
   </body>
 </html>
