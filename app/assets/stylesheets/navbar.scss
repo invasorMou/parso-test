@@ -1,0 +1,72 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.navbar.navbar {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  width: 100vw;
+  margin: 0;
+  border: none;
+  height: 48px;
+  min-height: 48px;
+}
+
+.company {
+  width: 250px;
+  background: #272b2f;
+  font-size: 1.2em;
+}
+
+.log-out {
+  width: 7%;
+}
+
+.navbar__link {
+  padding: 1rem;
+  
+  a {
+    color: rgba(255, 255, 255, .1);
+  }
+  a:hover {
+    color: rgba(255,255,255,.75);
+    text-decoration: none;
+  }
+}
+
+.navbar__link--main {
+  a {
+    color: white;
+  }
+  
+  a:hover {
+    color: white;
+  }
+
+}
+
+.navbar__menu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background: #343a40;
+  color: rgba(255,255,255,.5);
+}
+
+#search-bar {
+  margin: auto 0;
+  height: 75%;
+  color: #fff;
+  background-color: rgba(255, 255, 255, .1);
+  border-color: rgba(255, 255, 255, .1);
+  border-width: 0px;
+  padding: .75rem 1rem;
+  width: 100%;
+}
+
+#search-bar:focus {
+  background: #fff;
+  border-color: transparent;
+  outline-width: 0;
+  box-shadow: 0 0 0 3px #ffffff40;
+}

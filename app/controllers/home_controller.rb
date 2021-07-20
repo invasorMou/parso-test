@@ -1,5 +1,6 @@
 class HomeController < ApplicationController
   def index
+    @company = { name: 'Parso' }
     logger.info "Get index"
   end
 

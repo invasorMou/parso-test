@@ -1,0 +1,42 @@
+.dashboard {
+  width: 250px;
+  height: calc(100vh - 45px);
+  padding: .5rem;
+  background: #f8f9fa;
+  box-shadow: inset -1px 0 0 #0000001a;
+}
+
+.dashboard__menu {
+  padding: 0;
+}
+
+.dashboard__link {
+  list-style-type: none;
+  padding: .5rem 1rem;
+  font-weight: 500;
+  
+  & a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  & i {
+    margin: 0 4px 0 0;
+    color: #999;
+    width: 16px;
+    height: 16px;
+  }
+  &:hover i {
+    color: #333;
+  }
+}
+
+.dashboard__link--active {
+  & a {
+    color: #007bff;
+  }
+  
+  & i, &:hover i {
+    color: #007bff;
+  }
+}
