@@ -10,8 +10,24 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+*= require font-awesome
  *= require_tree .
  *= require_self
- *= bootstrap
+
  *= require custom
  */
+ 
+body {
+  margin: 0;
+}
+
+.main-layout {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+}
+
+main {
+  overflow-y: scroll;
+  padding: 2em 5em;
+  height: calc(100vh - 45px);
+}
