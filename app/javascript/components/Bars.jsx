@@ -53,7 +53,6 @@ const Bars = () => {
     },
     []
   )
-  console.log(values);
   return (
     <article className="graph">
     <h2>Weekly Values</h2>

@@ -5,9 +5,10 @@ const Dashboard = (props) => {
     return (
       <li key={ idx } className={ `dashboard__link${ idx === 0 ? ' dashboard__link--active' : '' }` }> 
         <a href="#">
-          <i className={ `fe ${ element.icon }` }></i>
+          <i className={ `fa ${element.icon}` }></i>
           { element.title }
         </a>
+        
       </li>
     )
    })
